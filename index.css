@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap');
 body{
   background-image:url(./images/weather1.jpg);
 }
 h1{
   font-size: large;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family:'Lobster', cursive;
+  color: rgb(245, 16, 16);
+  font-weight: bold;
 }
 /* .s1{
 

@@ -1,0 +1,14 @@
+body{
+  background-image:url(./images/weather1.jpg);
+}
+h1{
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* .s1{
+
+  background-color: aquamarine;
+} */
+.s2{
+  text-align: center;
+}
